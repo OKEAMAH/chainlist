@@ -13,6 +13,7 @@
   "okc",
   "polygon",
   "xpla",
+  "bitcoin",
   "cosmos",
   "agoric",
   "akash",
@@ -130,5 +131,6 @@
   "berachain-testnet",
   "artela-testnet",
   "nillion-testnet",
-  "mantra-testnet"
+  "mantra-testnet",
+  "bitcoin-testnet"
 ]
