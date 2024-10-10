@@ -20,6 +20,7 @@
   "aptos",
   "archway",
   "asset-mantle",
+  "atomone",
   "axelar",
   "band",
   "beezee",
@@ -59,6 +60,7 @@
   "lava",
   "likecoin",
   "lum",
+  "mantra",
   "mars-protocol",
   "medibloc",
   "meme",
@@ -79,6 +81,7 @@
   "persistence",
   "polkadot",
   "provenance",
+  "pryzm",
   "quasar",
   "quicksilver",
   "regen",
@@ -132,5 +135,6 @@
   "artela-testnet",
   "nillion-testnet",
   "mantra-testnet",
-  "bitcoin-testnet"
+  "bitcoin-testnet",
+  "story-testnet"
 ]
